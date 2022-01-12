@@ -15,7 +15,8 @@ The district summary report including the ninth graders from Thomas High school 
 ![Original District Summary](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/Original%20District%20Summary.PNG)
 
 Without the scores of those students, the new district summary report is:
-![New District Summary](
+![New District Summary](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/New%20District%20Summary.PNG)
+
 
 However, the Thomas High School summary scores increased dramatically when the ninth grade scores were excluded:
 ![Header](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/Summary%20header.PNG)
