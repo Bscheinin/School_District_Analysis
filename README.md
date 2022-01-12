@@ -28,23 +28,13 @@ Here are the original Thomas High School Summary followed by the new THS summary
 ![Header](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/Summary%20header.PNG)
 ![New THS Summary](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/New%20THS%20Summary.PNG)
 
-School ranking within the district also changed when the ninth graders scores were excluded. Thomas High School moved up in the district rankings.
+School ranking within the district also changed when the ninth graders scores were excluded. Thomas High School moved up in the district rankings. The overall 9th grade scores for the district also increased when the suspect scores were excluded from the analysis.
 
-Here are the original district rankings:
+Finally, the Medium school size and Charter school type categories were all negatively effected when the ninth grade scores for Thomas High School were included in the analysis. The performance score by spending per child was relatively unchanged based on the small number of students that were excluded.
 
-Updated district rankings with the ninth grade scores from Thomas High School excluded:
-
-
-Finally, the scores by school spending, school size and school type were all negatively effected when the ninth grade scores for Thomas High School were included in the analysis
-
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
-
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
+The four changes noted in the updated school district analsys after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs were:
+- Thomas High School moved up in the district rankings based on the overall percentage of passing students.
+- The performance scores for the Medium size school category increased.
+- The reading and math passing scores increased for the Charter school type.
+- 
