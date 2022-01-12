@@ -26,8 +26,14 @@ Here are the original Thomas High School Summary followed by the new THS summary
 ![Original THS Summary](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/Original%20THS%20summary.PNG)
 
 ![Header](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/Summary%20header.PNG)
-![New THS Summary](
-School ranking within the district also changed when the ninth graders scores were excluded:
+![New THS Summary](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/New%20THS%20Summary.PNG)
+
+School ranking within the district also changed when the ninth graders scores were excluded. Thomas High School moved up in the district rankings.
+
+Here are the original district rankings:
+
+Updated district rankings with the ninth grade scores from Thomas High School excluded:
+
 
 Finally, the scores by school spending, school size and school type were all negatively effected when the ninth grade scores for Thomas High School were included in the analysis
 
