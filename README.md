@@ -12,13 +12,13 @@ This audit was perfomed using Python 3.7 and Anaconda which enabled the use of J
 ## Project Results
 Analysis of the district performance metrics showed that the exclusion of a small number of suspect scores from the ninth graders at Thomas High School did not change the overall passing percentage for the district.  
 The district summary report including the ninth graders from Thomas High school was:
-- ![Header](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/Summary%20header.PNG)
-- ![Original District Summary](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/Original%20District%20Summary.PNG)
+![Original District Summary](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/Original%20District%20Summary.PNG)
 
 Without the scores of those students, the new district summary report is:
+![New District Summary](
 
 However, the Thomas High School summary scores increased dramatically when the ninth grade scores were excluded:
-
+![Header](https://github.com/Bscheinin/School_District_Analysis/blob/main/Resources/Summary%20header.PNG)
 School ranking within the district also changed when the ninth graders scores were excluded:
 
 Finally, the scores by school spending, school size and school type were all negatively effected when the ninth grade scores for Thomas High School were included in the analysis
