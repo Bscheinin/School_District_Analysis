@@ -34,7 +34,9 @@ Finally, the Medium school size and Charter school type categories were all nega
 
 ## Summary
 The four changes noted in the updated school district analsys after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs were:
+- The passing reading and math scores for Thomas High School as well as the overall passing score increased dramatically.
 - Thomas High School moved up in the district rankings based on the overall percentage of passing students.
 - The performance scores for the Medium size school category increased.
 - The reading and math passing scores increased for the Charter school type.
-- 
+
+It is unclear the motive for the adulerated ninth grade performance scores. By excluding these suspect scores, the performance of Thomas High School compared to the rest of the district schools could be evaluated. Fortunately, given the size of the school in relation to the total district population (4% of the district), these erroneous scores did not effect the overall district summary.
